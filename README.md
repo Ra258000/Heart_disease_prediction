@@ -1,18 +1,41 @@
+# ❤️ Heart Disease Prediction
 
-# Heart_Disease_prediction
+This project predicts whether a patient has heart disease or not based on clinical and medical attributes.
 
-This project whether a person has heart disease or not using Machine learning.
+## Data Pipeline Overview
 
-##About Project
+1. Problem Statement
+2. Import Required Libraries
+3. Load the Dataset
+4. Data Understanding
+5. Data Cleaning
+6. Exploratory Data Analysis (EDA)
+7. Feature Engineering
+8. Feature Scaling
+9. Train-Test Split
+10. Model Building
 
-Heart disease is one of the major causes of death. This model helps to predict heart disease early based on patient data .
+## Models Used
 
-## Technologies used
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- KNN
 
--Python
--pandas,numpy
--Sckit-learn
--Jupiter Notebook
-##Files in this Repo
--Heart_Disease_Prediction(1).ipynb-Main model code
+## Technologies Used
+
+- Python
+- Pandas, NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+## How to Run
+
+1. Open Heart_Disease_Prediction (1).ipynb
+2. Run all cells
+3. See the prediction result
+
+## Author
+
+Ra258000
 
